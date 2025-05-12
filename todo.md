@@ -10,7 +10,7 @@ This is as a text file. As simple as it gets. I'm not complicating this part, it
   [X] Entire screen share view
 [ ] Twitch screen setup with chat view
 [X] Zed editor stream view setup (zoomed)
-[ ] Postpone ETA availability date to 15 June, 2025
+[X] Postpone ETA availability date to 30 June, 2025
 [X] Add page view analytics
 
 ### Plan for the stream + FAQs
