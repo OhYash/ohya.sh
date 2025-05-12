@@ -9,9 +9,9 @@ This is as a text file. As simple as it gets. I'm not complicating this part, it
   [X] Webbrowser view
   [X] Entire screen share view
 [ ] Twitch screen setup with chat view
-[ ] Zed editor stream view setup (zoomed)
+[X] Zed editor stream view setup (zoomed)
 [ ] Postpone ETA availability date to 15 June, 2025
-[ ] Add page view analytics
+[X] Add page view analytics
 
 ### Plan for the stream + FAQs
 - Intro
@@ -20,7 +20,7 @@ This is as a text file. As simple as it gets. I'm not complicating this part, it
 - What time would be good for people?
 - What's going to be special about the soulsite?
   - Why do I claim it to be better than other Portfolio websites?
-- What IDE will I be using
+- What IDE will I be using - Zed
 - What is the agenda for today
   - Analytics options we had
   - Date to be set for the future
