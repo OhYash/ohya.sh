@@ -13,6 +13,14 @@ This is as a text file. As simple as it gets. I'm not complicating this part, it
 [X] Postpone ETA availability date to 30 June, 2025
 [X] Add page view analytics
 
+## 19 May, 2025
+[X] Greetings!
+[X] Rest APIs and how they work
+[X] Get a python HTTP server running
+  [-] Setting up of a venv
+[X] Setup surge to deploy on dev surge subdomain
+
+
 ### Plan for the stream + FAQs
 - Intro
   - What's my background and does the project align
